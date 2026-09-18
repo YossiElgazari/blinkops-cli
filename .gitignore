@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+# Browser captures and local config can contain credentials
+*.har
+recon/
+.tforge/
